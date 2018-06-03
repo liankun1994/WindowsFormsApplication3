@@ -13,10 +13,12 @@ namespace WindowsFormsApplication3
         /* 
          * 创建本地库
          * 创建远程库
+         * 
          * 暂存更改
          * 提交更改
          * 回退本地版本
          * 推送版本
+         * 
          * 创建分支
          * 合并分支
          * 解决冲突
